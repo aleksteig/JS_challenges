@@ -1,0 +1,2 @@
+# Install with:  python -m pip install -r requirements.txt
+ipykernel    # runs the notebooks (all you need with VS Code)
